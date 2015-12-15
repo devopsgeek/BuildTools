@@ -9,14 +9,6 @@
     --> 
     
     <!--
-        Steps
-        
-        1.  Compile the source files
-        2.  Creates the Jar File
-        3.  Copy the web files
-        4.  Create a zip file containing the jar and web files and ship it to customer
-    -->
-    <!--
     <property name="src.dir" value="."/>
     <property name="build.dir" value="build"/>
     <property name="lib.dir" value="lib"/>
