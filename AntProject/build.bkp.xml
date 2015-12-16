@@ -5,9 +5,7 @@
 		Create a Java Project (JAR) with Ant build script
 	</description>
 
-	<property name="projectName" value="HelloWorld" />
-	
-	<!-- Java sources -->
+		<!-- Java sources -->
 	<property name="src.dir" location="src" />
 	
 	<!-- Java classes -->
